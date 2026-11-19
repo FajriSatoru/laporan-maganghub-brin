@@ -11,6 +11,8 @@ tokoh:
   - Acel
   - Mas Rijaldi
   - Mas Alvin
+  - Mas Pras
+  - Mr Koh
 tags:
   - maganghub
   - brin
