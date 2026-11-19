@@ -7,7 +7,7 @@ lokasi: Smart Greenhouse BRIN
 tokoh:
   - Mr. Koh
   - Mr. Lee
-  - Mas Arif
+  - Mas Ahmad
   - Mbak Ana
   - Mbak Siti
   - Mas Rijaldi
